@@ -71,7 +71,7 @@ class _HomeState extends State<Home> {
                 mainAxisAlignment: MainAxisAlignment.end,
                 children: <Widget>[
                   TextButton(
-                    child: const Text('BUY'),
+                    child: const Text('BELI'),
                     onPressed: () {
                       Navigator.push(
                           context,
